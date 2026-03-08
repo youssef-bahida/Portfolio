@@ -2,7 +2,9 @@
 
 > Collection of useful Bash scripts for Linux automation.
 
-![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) ![Branch](https://img.shields.io/badge/Branch-devops-cloud-purple?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square)
+
+![Branch](https://img.shields.io/badge/Branch-devops-cloud?style=flat-square)
 
 ---
 
