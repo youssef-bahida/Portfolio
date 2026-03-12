@@ -25,6 +25,7 @@
 | [`networking-security`](../../tree/networking-security) | 🔐 Networking & Security | Cyber security basics, Cisco, Encryption, Linux | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
 | [`scripting-automation`](../../tree/scripting-automation) | 🤖 Scripting & Automation | Python, Bash, Web Scraping | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
 | [`machine-learning`](../../tree/machine-learning) | 🧠 Machine Learning | Scikit-learn, TensorFlow, NLP | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
+| [`Image-Processing`](../../tree/Image-Processing) | 🔬 Image Processing | MATLAB, React, Canvas API, Computer Vision | [![Live](https://img.shields.io/badge/Live_Demo-00E5CC?style=flat-square&logo=vercel&logoColor=black)](https://image-lab-nine.vercel.app) ![Status](https://img.shields.io/badge/Status-Completed-00E5CC?style=flat-square) |
 
 ---
 
@@ -84,16 +85,13 @@
 ![Suricata](https://img.shields.io/badge/Suricata-F26722?style=for-the-badge&logoColor=white)
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-CC0000?style=for-the-badge&logo=linux&logoColor=white)
 
-
-
-
 ---
 
 ## 📊 Portfolio Progress
 
 | Total Branches | Total Projects | Status |
 |:--------------:|:--------------:|--------|
-| 8 | 40 | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
+| 9 | 40 | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
 
 ---
 
