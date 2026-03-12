@@ -13,7 +13,7 @@
 
 ---
 
-##  Branches — Domains
+## Branches — Domains
 
 | Branch | Domain | Key Skills | Status |
 |--------|--------|------------|--------|
@@ -25,7 +25,7 @@
 | [`networking-security`](../../tree/networking-security) | 🔐 Networking & Security | Cyber security basics, Cisco, Encryption, Linux | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
 | [`scripting-automation`](../../tree/scripting-automation) | 🤖 Scripting & Automation | Python, Bash, Web Scraping | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
 | [`machine-learning`](../../tree/machine-learning) | 🧠 Machine Learning | Scikit-learn, TensorFlow, NLP | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
-| [`Image-Processing`](../../tree/Image-Processing) | 🔬 Image Processing | MATLAB, React, Canvas API, Computer Vision | [![Live](https://img.shields.io/badge/Live_Demo-00E5CC?style=flat-square&logo=vercel&logoColor=black)](https://image-lab-nine.vercel.app) ![Status](https://img.shields.io/badge/Status-Completed-00E5CC?style=flat-square) |
+| [`Image-Processing`](../../tree/Image-Processing) | 🔬 Image Processing & Computer Vision | MATLAB, React, Canvas API, Noise, Filters, OpenCV | [![Live](https://img.shields.io/badge/Live_Demo-00E5CC?style=flat-square&logo=vercel&logoColor=black)](https://image-lab-nine.vercel.app) ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
 
 ---
 
@@ -36,10 +36,19 @@
 ![Merise](https://img.shields.io/badge/Merise-6C3483?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Languages**</br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Frameworks & Libraries**</br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) </br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Image Processing & Computer Vision**</br>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-00E5CC?style=for-the-badge&logo=html5&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB_Image_Toolbox-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-306998?style=for-the-badge&logo=python&logoColor=white)
+![scikit-image](https://img.shields.io/badge/scikit--image-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 **DevOps & Cloud**</br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -91,7 +100,9 @@
 
 | Total Branches | Total Projects | Status |
 |:--------------:|:--------------:|--------|
-| 9 | 40 | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
+| 9 | ![?](https://img.shields.io/badge/∞-always_growing-yellow?style=flat-square) | ![Status](https://img.shields.io/badge/Always-In_Progress-yellow?style=flat-square) |
+
+> *A portfolio is never finished — it just keeps getting better.*
 
 ---
 
