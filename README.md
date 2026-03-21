@@ -62,7 +62,7 @@ image processing algorithms natively in the browser — no Python, no backend, n
 </td>
 <td align="center">🔊 Noise & Filters</td>
 <td>Gaussian · Salt & Pepper · Poisson · Speckle · Mean/Median/Bilateral filter</td>
-<td align="center"><a href="https://img-lab2.vercel.app/"><img src="https://img.shields.io/badge/⚡_Live-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a></td>
+<td align="center"><a href="https://img-lab2.vercel.app/"><img src="https://img.shields.io/badge/Live-00E5CC?style=flat-square&logo=vercel&logoColor=black"/></a></td>
 <td align="center"><img src="https://img.shields.io/badge/✓_Done-00E5CC?style=flat-square"/></td>
 </tr>
 
@@ -73,9 +73,8 @@ image processing algorithms natively in the browser — no Python, no backend, n
 </td>
 <td align="center">🌊 Filtering</td>
 <td>Sobel · Laplacian · Sharpen · Emboss · FFT low/high-pass</td>
-<td align="center"><img src="https://img.shields.io/badge/Soon-555?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Planned-555?style=flat-square"/></td>
-</tr>
+<td align="center"><a href="https://img-lab2.vercel.app/"><img src="https://img.shields.io/badge/Live-00E5CC?style=flat-square&logo=vercel&logoColor=black"/></a></td>
+<td align="center"><img src="https://img.shields.io/badge/✓_Done-00E5CC?style=flat-square"/></td></tr>
 
 <tr>
 <td>
