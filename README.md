@@ -62,8 +62,8 @@ image processing algorithms natively in the browser — no Python, no backend, n
 </td>
 <td align="center">🔊 Noise & Filters</td>
 <td>Gaussian · Salt & Pepper · Poisson · Speckle · Mean/Median/Bilateral filter</td>
-<td align="center"><img src="https://img.shields.io/badge/Soon-555?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/In_Progress-yellow?style=flat-square"/></td>
+<td align="center"><a href="https://img-lab2.vercel.app/"><img src="https://img.shields.io/badge/⚡_Live-FF6B35?style=flat-square&logo=vercel&logoColor=white"/></a></td>
+<td align="center"><img src="https://img.shields.io/badge/✓_Done-00E5CC?style=flat-square"/></td>
 </tr>
 
 <tr>
