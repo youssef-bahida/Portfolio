@@ -1,0 +1,11 @@
+services:
+  downloader:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      # Mount your Desktop so folders are created there directly
+      - "${DESKTOP_PATH:-~/Desktop}:/root/Desktop"
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: "no"
