@@ -25,7 +25,7 @@
 ### 1 — Pull the image
 
 ```bash
-docker pull yourusername/yt-downloader
+bahida2026youssef/yt-downloader
 ```
 
 > Or build it yourself from source — see [Build from source](#-build-from-source) below.
