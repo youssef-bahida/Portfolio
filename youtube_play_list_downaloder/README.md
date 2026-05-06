@@ -97,14 +97,17 @@ Prefer a graphical interface? Use Docker Desktop:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/yt-downloader.git
-cd yt-downloader
+git clone https://github.com/youssef-bahida/Portfolio.git
+cd Portfolio/youtube_play_list_downaloder
 
 # Build the image (FFmpeg is installed automatically)
 docker build -t yt-downloader .
 
 # Run it
 docker run -p 5000:5000 -v ~/Desktop:/downloads -e DOWNLOAD_DIR=/downloads yt-downloader
+
+
+docker pull bahida2026youssef/yt-downloader
 ```
 
 > FFmpeg is baked into the Docker image — no manual installation needed.
